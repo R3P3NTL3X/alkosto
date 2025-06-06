@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+.first-div{
+    margin-left: 320px;
+}
+.second-div{
+    margin-right: 200px;
+}
+.third-div{
+  background-color: #eb5b25;
+        content: "";
+        height: 3px;
+        position: absolute;
+        width: 100%;
+    }
+    element.style{
+            position: absolute;
+    transform: translateX(125px);
+    top: 65px;
+    padding: 7px;
+    width: 290px;
+}
+    
+    
+    .buscar{
+        margin-right: 200px;
+    }
+    .buscar-1{
+    position: absolute;
+    transform: translateX(125px);
+    top: 65px;
+    padding: 7px;
+    width: 290px;
+    }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    background-color: #004797;
+    box-sizing: border-box;
+    padding: 20px 40px;
+    width: 100%;
+    
+
+}
+.nav-first a{
+    color: white;
+    position: relative;
+    padding: 15px;
+    text-decoration: none;
+    border-bottom: 40px;
+
+}
+.nav-second a{
+    color: blue;
+    text-decoration: none;
+
+}
+.div-nav{
+    position: relative;
+    padding: 15px;
+    text-decoration: none;
+    border-bottom: 40px;
+    margin-left: 200px;
+    
+}
